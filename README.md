@@ -1,7 +1,7 @@
 # Multiply v5.0
 
 Плагин позволяет создавать таблицы умножения
-Для начала ознакомьтесь с  https://sktatanya.github.io/modul_multiply/docs/started-welcome.html/.**
+Для начала ознакомьтесь с  https://sktatanya.github.io/modul_multiply/docs/started-welcome.html.**
 
 ## Быстрый старт
 
